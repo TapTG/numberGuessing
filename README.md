@@ -1,2 +1,2 @@
 # numberGuessing
-Number Guessing using Python programming
+Number guessing using Python programming
